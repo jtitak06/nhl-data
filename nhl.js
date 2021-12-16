@@ -14,15 +14,15 @@ app.get("/", (req, res) => {
     res.send("NHL Stat Leaders");
 });
 
-app.get("/points", (req, res) => {
+app.get("/goals", (req, res) => {
     res.send(goalsData);
 });
 
-app.get("/rebounds", (req, res) => {
+app.get("/assists", (req, res) => {
     res.send(assistsData);
 });
 
-app.get("/assists", (req, res) => {
+app.get("/wins", (req, res) => {
     res.send(winsData);
 });
 
