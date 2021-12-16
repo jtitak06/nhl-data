@@ -1,0 +1,104 @@
+{"Assists Leaders":
+    [
+        {
+            "name": "Wayne Gretzky",
+            "assists": 1963
+        },
+        {
+            "name": "Ron Francis",
+            "assists": 1249
+        },
+        {
+            "name": "Mark Messier",
+            "assists": 1193
+        },
+        {
+            "name": "Ray Bourque",
+            "assists": 1169
+        },
+        {
+            "name": "Jaromír Jágr",
+            "assists": 1155
+        },
+        {
+            "name": "Paul Coffey",
+            "assists": 1135
+        },
+        {
+            "name": "Joe Thornton",
+            "assists": 1106
+        },
+        {
+            "name": "Adam Oates",
+            "assists": 1079
+        },
+        {
+            "name": "Steve Yzerman",
+            "assists": 1063
+        },
+        {
+            "name": "Gordie Howe",
+            "assists": 1049
+        },
+        {
+            "name": "Marcel Dionne",
+            "assists": 1040
+        },
+        {
+            "name": "Mario Lemieux",
+            "assists": 1033
+        },
+        {
+            "name": "Joe Sakic",
+            "assists": 1016
+        },
+        {
+            "name": "Doug Gilmour",
+            "assists": 964
+        },
+        {
+            "name": "Mark Recchi",
+            "assists": 956
+        },
+        {
+            "name": "Al MacInnis",
+            "assists": 934
+        },
+        {
+            "name": "Larry Murphy",
+            "assists": 929
+        },
+        {
+            "name": "Stan Mikita",
+            "assists": 926
+        },
+        {
+            "name": "Bryan Trottier",
+            "assists": 901
+        },
+        {
+            "name": "Phil Housley",
+            "assists": 894
+        },
+        {
+            "name": "Dale Hawerchuk",
+            "assists": 891
+        },
+        {
+            "name": "Nicklas Lidström",
+            "assists": 878
+        },
+        {
+            "name": "Phil Esposito",
+            "assists": 873
+        },
+        {
+            "name": "Denis Savard",
+            "assists": 865
+        },
+        {
+            "name": "Sidney Crosby",
+            "assists": 852
+        }
+    ]
+}

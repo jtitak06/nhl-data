@@ -1,0 +1,104 @@
+{"Goals Leaders":
+    [
+        {
+            "name": "Wayne Gretzky",
+            "goals": 894
+        },
+        {
+            "name": "Gordie Howe",
+            "goals": 801
+        },
+        {
+            "name": "Jaromír Jágr",
+            "goals": 766
+        },
+        {
+            "name": "Alexander Ovechkin",
+            "goals": 751
+        },
+        {
+            "name": "Brett Hull",
+            "goals": 741
+        },
+        {
+            "name": "Marcel Dionne",
+            "goals": 731
+        },
+        {
+            "name": "Phil Esposito",
+            "goals": 717
+        },
+        {
+            "name": "Mike Gartner",
+            "goals": 708
+        },
+        {
+            "name": "Mark Messier",
+            "goals": 694
+        },
+        {
+            "name": "Steve Yzerman",
+            "goals": 692
+        },
+        {
+            "name": "Mario Lemieux",
+            "goals": 690
+        },
+        {
+            "name": "Teemu Selänne",
+            "goals": 684
+        },
+        {
+            "name": "Luc Robitaille",
+            "goals": 668
+        },
+        {
+            "name": "Brendan Shanahan",
+            "goals": 656
+        },
+        {
+            "name": "Dave Andreychuk",
+            "goals": 640
+        },
+        {
+            "name": "Joe Sakic",
+            "goals": 625
+        },
+        {
+            "name": "Jerome Iginla",
+            "goals": 625
+        },
+        {
+            "name": "Bobby Hull",
+            "goals": 610
+        },
+        {
+            "name": "Dino Cicarelli",
+            "goals": 608
+        },
+        {
+            "name": "Jari Kurri",
+            "goals": 601
+        },
+        {
+            "name": "Mark Recchi",
+            "goals": 577
+        },
+        {
+            "name": "Mike Bossy",
+            "goals": 573
+        },
+        {
+            "name": "Patrick Marleau",
+            "goals": 566
+        },
+        {
+            "name": "Joe Nieuwendyk",
+            "goals": 564
+        },
+        {
+            "name": "Mats Sundin",
+            "goals": 564
+        }
+    ]
+}
